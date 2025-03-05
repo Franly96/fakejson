@@ -166,24 +166,20 @@
         ]
       }
     ],
-    "profile": {
+    "user": {
+      "events": [
+        "01",
+        "02",
+        "03"
+      ],
+      "favorites": [
+        "01",
+        "02",
+        "03"
+      ],
       "id": "01",
       "name": "John",
       "lastName": "Doe",
       "picture": "https://drive.google.com/thumbnail?id=12JEomYICs63-FUh3Juarg48MwkRQ2Yal=w1000"
-    },
-    "MyEvents": [
-      {
-        "eventId": "01",
-        "tickets": 2
-      },
-      {
-        "eventId": "03",
-        "tickets": 2
-      }
-    ],
-    "favoriteEvents": [
-      "01",
-      "02"
-    ]
+    }
   }
