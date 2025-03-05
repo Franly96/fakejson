@@ -1,0 +1,189 @@
+{
+    "stories": [
+      {
+        "id": "01",
+        "storyName": "Story 01",
+        "profilePhoto": "https://drive.google.com/thumbnail?id=0B6wwyazyzml-OGQ3VUo0Z2thdmc&sz=w1000",
+        "eventId": "01"
+      },
+      {
+        "id": "02",
+        "storyName": "Story 01",
+        "profilePhoto": "https://drive.google.com/thumbnail?id=0B6wwyazyzml-OGQ3VUo0Z2thdmc&sz=w1000",
+        "eventId": "02"
+      },
+      {
+        "id": "03",
+        "storyName": "Story 01",
+        "profilePhoto": "https://drive.google.com/thumbnail?id=198bVXyBpF2Cpi9JZgkNvSNsGCOdMYzpk&sz=w1000",
+        "eventId": "03"
+      },
+      {
+        "id": "04",
+        "storyName": "Story 01",
+        "profilePhoto": "https://drive.google.com/thumbnail?id=198bVXyBpF2Cpi9JZgkNvSNsGCOdMYzpk&sz=w1000",
+        "eventId": "04"
+      },
+      {
+        "id": "05",
+        "storyName": "Story 01",
+        "profilePhoto": "https://drive.google.com/thumbnail?id=0B6wwyazyzml-OGQ3VUo0Z2thdmc&sz=w1000",
+        "eventId": "05"
+      },
+      {
+        "id": "06",
+        "storyName": "Story 01",
+        "profilePhoto": "https://drive.google.com/thumbnail?id=0B6wwyazyzml-OGQ3VUo0Z2thdmc&sz=w1000",
+        "eventId": "06"
+      },
+      {
+        "id": "07",
+        "storyName": "Story 01",
+        "profilePhoto": "https://drive.google.com/thumbnail?id=0B6wwyazyzml-OGQ3VUo0Z2thdmc&sz=w1000",
+        "eventId": "07"
+      }
+    ],
+    "events": [
+      {
+        "id": "01",
+        "name": "Event title 1",
+        "categoryId": "music",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac libero id purus euismod suscipit ac ut libero. Curabitur a lorem .",
+        "date": "2024-11-21",
+        "imageUrl": "https://drive.google.com/thumbnail?id=198bVXyBpF2Cpi9JZgkNvSNsGCOdMYzpk",
+        "artistName": "Jane Doe",
+        "price": 1500
+      },
+      {
+        "id": "02",
+        "name": "Event title 2",
+        "categoryId": "sports",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac libero id purus euismod suscipit ac ut libero. Curabitur a lorem .",
+        "date": "2024-11-22",
+        "imageUrl": "https://drive.google.com/thumbnail?id=1RJ5rBZ6_yLr3X3jpWfCgy0KgEjjdCAfo",
+        "artistName": "Jane Doe",
+        "price": 1600
+      },
+      {
+        "id": "03",
+        "name": "Event title 3",
+        "categoryId": "food",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac libero id purus euismod suscipit ac ut libero. Curabitur a lorem .",
+        "date": "2024-11-23",
+        "imageUrl": "https://drive.google.com/thumbnail?id=1zvhsaJNlQKgqrSpdX0m2vdijwNDTBUsJ",
+        "artistName": "Jane Doe",
+        "price": 1700
+      },
+      {
+        "id": "04",
+        "name": "Event title 4",
+        "categoryId": "sports",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac libero id purus euismod suscipit ac ut libero. Curabitur a lorem .",
+        "date": "2024-11-24",
+        "imageUrl": "https://drive.google.com/thumbnail?id=1fhmPLQQPw_eIRbM9WO2ECWvUD5oKqMDZ",
+        "artistName": "Jane Doe",
+        "price": 1700
+      },
+      {
+        "id": "05",
+        "name": "Event title 5",
+        "categoryId": "sports",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac libero id purus euismod suscipit ac ut libero. Curabitur a lorem .",
+        "date": "2024-11-01",
+        "imageUrl": "https://drive.google.com/thumbnail?id=1SCq6yRcDtDUdo0-GgkUZw1phGL2kXpTZ",
+        "artistName": "Jane Doe",
+        "price": 1800
+      },
+      {
+        "id": "06",
+        "name": "Event title 6",
+        "categoryId": "sports",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac libero id purus euismod suscipit ac ut libero. Curabitur a lorem .",
+        "date": "2024-11-09",
+        "imageUrl": "https://drive.google.com/thumbnail?id=1SuJKHKucGxq1IB67NA3rP85M2Na1scUX",
+        "artistName": "Jane Doe",
+        "price": 1900
+      },
+      {
+        "id": "07",
+        "name": "Event title 7",
+        "categoryId": "sports",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac libero id purus euismod suscipit ac ut libero. Curabitur a lorem .",
+        "date": "2024-12-13",
+        "imageUrl": "https://drive.google.com/thumbnail?id=1SCq6yRcDtDUdo0-GgkUZw1phGL2kXpTZ",
+        "artistName": "Jane Doe",
+        "price": 500
+      }
+    ],
+    "categories": [
+      {
+        "id": "music",
+        "name": "Musica",
+        "iconType": "music"
+      },
+      {
+        "id": "sports",
+        "name": "Deportes",
+        "iconType": "sports"
+      },
+      {
+        "id": "food",
+        "name": "Gatronomia",
+        "iconType": "food"
+      },
+      {
+        "id": "moda",
+        "name": "Moda",
+        "iconType": "moda"
+      },
+      {
+        "id": "art",
+        "name": "Artes Escenicas",
+        "iconType": "art"
+      }
+    ],
+    "news": [
+      {
+        "id": "01",
+        "title": "Title News",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "imageUrl": "https://drive.google.com/thumbnail?id=1SuJKHKucGxq1IB67NA3rP85M2Na1scUX",
+        "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum leo et nibh tempor sodales. Quisque luctus velit eu lectus pellentesque tempus. Duis commodo lorem sed varius congue. Mauris purus risus, luctus at urna at, ultricies egestas tortor. Nunc mattis commodo purus ultricies varius. Sed viverra dictum mollis. Maecenas elit neque, imperdiet sit amet est non, vehicula ultrices ligula. Nullam sodales placerat facilisis. Mauris condimentum maximus lobortis. Vestibulum ac nulla viverra, molestie turpis eu, faucibus diam. Duis vulputate, ipsum eu cursus luctus, eros ante imperdiet massa, consequat vestibulum felis elit dapibus urna. Morbi dignissim consectetur tellus, vel mattis velit lacinia ac. Praesent felis mauris, aliquet id faucibus sed, posuere ut erat. Morbi malesuada sollicitudin iaculis. Suspendisse potenti. Quisque pulvinar ipsum sit amet erat tristique vestibulum. Ut vel faucibus mauris. Mauris placerat euismod faucibus. Donec vitae aliquam augue. Mauris rhoncus, nulla eu efficitur",
+        "categoryId": [
+          "moda",
+          "art"
+        ]
+      },
+      {
+        "id": "02",
+        "title": "Title News 2",
+        "subtitle": "Lorem ipsum dolor sit amet 2",
+        "imageUrl": "https://drive.google.com/thumbnail?id=198bVXyBpF2Cpi9JZgkNvSNsGCOdMYzpk",
+        "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum leo et nibh tempor sodales. Quisque luctus velit eu lectus pellentesque tempus. Duis commodo lorem sed varius congue. Mauris purus risus, luctus at urna at, ultricies egestas tortor. Nunc mattis commodo purus ultricies varius. Sed viverra dictum mollis. Maecenas elit neque, imperdiet sit amet est non, vehicula ultrices ligula. Nullam sodales placerat facilisis. Mauris condimentum maximus lobortis. Vestibulum ac nulla viverra, molestie turpis eu, faucibus diam. Duis vulputate, ipsum eu cursus luctus, eros ante imperdiet massa, consequat vestibulum felis elit dapibus urna. Morbi dignissim consectetur tellus, vel mattis velit lacinia ac. Praesent felis mauris, aliquet id faucibus sed, posuere ut erat. Morbi malesuada sollicitudin iaculis. Suspendisse potenti. Quisque pulvinar ipsum sit amet erat tristique vestibulum. Ut vel faucibus mauris. Mauris placerat euismod faucibus. Donec vitae aliquam augue. Mauris rhoncus, nulla eu efficitur",
+        "categoryId": [
+          "moda",
+          "art"
+        ]
+      }
+    ],
+    "profile": {
+      "id": "01",
+      "name": "John",
+      "lastName": "Doe",
+      "picture": "https://drive.google.com/thumbnail?id=12JEomYICs63-FUh3Juarg48MwkRQ2Yal=w1000"
+    },
+    "MyEvents": [
+      {
+        "eventId": "01",
+        "tickets": 2
+      },
+      {
+        "eventId": "03",
+        "tickets": 2
+      }
+    ],
+    "favoriteEvents": [
+      "01",
+      "02"
+    ]
+  }
