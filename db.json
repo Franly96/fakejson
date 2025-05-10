@@ -152,7 +152,8 @@
         "categoryId": [
           "moda",
           "art"
-        ]
+        ],
+        "isImportant": true
       },
       {
         "id": "02",
